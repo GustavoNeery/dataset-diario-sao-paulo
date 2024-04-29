@@ -1,0 +1,4 @@
+,pdfbox,pdftotext,mupdf,pdfminer,slate3k
+Rouge-1,0.971,0.932,0.967,0.81,0.81
+Rouge-2,0.943,0.912,0.948,0.745,0.745
+Rouge-l,0.971,0.932,0.967,0.81,0.81
